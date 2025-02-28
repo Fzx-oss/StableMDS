@@ -1,5 +1,9 @@
 # StableMDS
 
+## description
+
+StableMDS is an efficient alternative to conventional Weighted Multidimensional Scaling (WMDS) solvers, such as the Kamada-Kawai algorithm and Stress Majorization (SMACOF).
+
 ## Setup Instructions
 
 ### Installing Dependencies
